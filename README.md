@@ -54,7 +54,9 @@ php -S localhost:8000
 Open browser: http://localhost:8000
 
 🧪 Screenshot
-(Add a screenshot here to showcase the UI)
+![Screenshot 2025-05-11 204316](https://github.com/user-attachments/assets/d242f61d-3279-45f0-847e-d9d77c1952fd)
+
+
 
 👩‍💻 Author
 Made with 💙 by Kirti Chavan
